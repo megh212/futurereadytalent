@@ -1,7 +1,6 @@
 # frtproject
 this is final frt project.   
 collobrator megh212
-website links :- https://atulmhatre2111.github.io/frtproject/contact.html 
 
 
 ![Screenshot 2022-10-22 140046](https://user-images.githubusercontent.com/108206935/197329801-5c7e8c1a-0ea5-48de-a740-d750e8c293f9.png)
